@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-alipay",
+  "version": "0.0.1",
+  "description": "### 本cordova插件是基于支付宝支付的简单demo",
+  "cordova": {
+    "id": "cordova-plugin-alipay",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenyuanchn/cordova-plugin-alipay.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenyuanchn/cordova-plugin-alipay/issues"
+  },
+  "homepage": "https://github.com/chenyuanchn/cordova-plugin-alipay#readme"
+}
